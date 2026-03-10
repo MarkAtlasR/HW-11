@@ -33,6 +33,10 @@ p{
   width: 400px;
   height: 1000px;
   margin: 50px auto;
+  background-position: center;
+  /*background-size: cover;*/
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 .name {
